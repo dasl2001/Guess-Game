@@ -1,4 +1,4 @@
-# Beskrivning
+## Beskrivning
 Spelet genererar ett slumpmässigt tal mellan 1 och 100, och spelaren har ett begränsat antal försök att gissa det korrekta talet.
 
 ## Funktioner
